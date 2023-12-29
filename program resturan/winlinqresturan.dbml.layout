@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="winlinqresturan">
+  <DataContextMoniker Name="/winlinqresturanDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e37b3eeb-1ff0-456e-bad5-10b0662b347a" absoluteBounds="5.125, 1.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/winlinqresturanDataContext/Tableregister" />
+      <nestedChildShapes>
+        <elementListCompartment Id="16cbffa2-0f32-40e9-a319-67508dcee445" absoluteBounds="5.14, 1.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f476842f-bce6-442e-a124-17493dead947" absoluteBounds="2.125, 1.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/winlinqresturanDataContext/Tableinsertfood" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ae25626b-d96f-4a23-8bd9-bf4d52e76da1" absoluteBounds="2.14, 1.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8634acee-a685-4fb6-97a8-fcf0ec8a9ff1" absoluteBounds="2.125, 3.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/winlinqresturanDataContext/Tableinsertlabel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f5e76efa-2474-4c39-b9d5-7478a801cf60" absoluteBounds="2.14, 3.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

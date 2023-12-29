@@ -1,0 +1,77 @@
+c:\users\ahmirnia\documents\visual studio 2015\Projects\program resturan\program resturan\bin\Debug\program resturan.exe.config
+c:\users\ahmirnia\documents\visual studio 2015\Projects\program resturan\program resturan\bin\Debug\program resturan.exe
+c:\users\ahmirnia\documents\visual studio 2015\Projects\program resturan\program resturan\bin\Debug\program resturan.pdb
+c:\users\ahmirnia\documents\visual studio 2015\Projects\program resturan\program resturan\bin\Debug\MetroFramework.Design.dll
+c:\users\ahmirnia\documents\visual studio 2015\Projects\program resturan\program resturan\bin\Debug\MetroFramework.dll
+c:\users\ahmirnia\documents\visual studio 2015\Projects\program resturan\program resturan\bin\Debug\MetroFramework.Fonts.dll
+c:\users\ahmirnia\documents\visual studio 2015\Projects\program resturan\program resturan\obj\Debug\program_resturan.Properties.Resources.resources
+c:\users\ahmirnia\documents\visual studio 2015\Projects\program resturan\program resturan\obj\Debug\program resturan.csproj.GenerateResource.Cache
+c:\users\ahmirnia\documents\visual studio 2015\Projects\program resturan\program resturan\obj\Debug\program resturan.exe
+c:\users\ahmirnia\documents\visual studio 2015\Projects\program resturan\program resturan\obj\Debug\program resturan.pdb
+c:\users\ahmirnia\documents\visual studio 2015\Projects\program resturan\program resturan\obj\Debug\program resturan.csprojResolveAssemblyReference.cache
+c:\users\ahmirnia\documents\visual studio 2015\Projects\program resturan\program resturan\obj\Debug\program_resturan.page1.resources
+c:\users\ahmirnia\documents\visual studio 2015\Projects\program resturan\program resturan\obj\Debug\program_resturan.register.resources
+C:\Users\AHMIRNIA\documents\visual studio 2015\Projects\program resturan\program resturan\obj\Debug\program_resturan.update.resources
+C:\Users\AHMIRNIA\documents\visual studio 2015\Projects\program resturan\program resturan\obj\Debug\program_resturan.tableuser.resources
+C:\Users\AHMIRNIA\documents\visual studio 2015\Projects\program resturan\program resturan\obj\Debug\program_resturan.insertfood.resources
+E:\c#&web\c#\pro c#\program resturan\program resturan\bin\Debug\program resturan.exe.config
+E:\c#&web\c#\pro c#\program resturan\program resturan\obj\Debug\program resturan.exe
+E:\c#&web\c#\pro c#\program resturan\program resturan\obj\Debug\program resturan.pdb
+E:\c#&web\c#\pro c#\program resturan\program resturan\bin\Debug\program resturan.exe
+E:\c#&web\c#\pro c#\program resturan\program resturan\bin\Debug\program resturan.pdb
+E:\c#&web\c#\pro c#\program resturan\program resturan\bin\Debug\MetroFramework.Design.dll
+E:\c#&web\c#\pro c#\program resturan\program resturan\bin\Debug\MetroFramework.dll
+E:\c#&web\c#\pro c#\program resturan\program resturan\bin\Debug\MetroFramework.Fonts.dll
+E:\c#&web\c#\pro c#\program resturan\program resturan\obj\Debug\program resturan.csprojResolveAssemblyReference.cache
+E:\c#&web\c#\pro c#\program resturan\program resturan\obj\Debug\program_resturan.page1.resources
+E:\c#&web\c#\pro c#\program resturan\program resturan\obj\Debug\program_resturan.insertfood.resources
+E:\c#&web\c#\pro c#\program resturan\program resturan\obj\Debug\program_resturan.Properties.Resources.resources
+E:\c#&web\c#\pro c#\program resturan\program resturan\obj\Debug\program_resturan.register.resources
+E:\c#&web\c#\pro c#\program resturan\program resturan\obj\Debug\program_resturan.tableuser.resources
+E:\c#&web\c#\pro c#\program resturan\program resturan\obj\Debug\program_resturan.update.resources
+E:\c#&web\c#\pro c#\program resturan\program resturan\obj\Debug\program resturan.csproj.GenerateResource.Cache
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\bin\Debug\program resturan.exe.config
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\obj\Debug\program resturan.exe
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\obj\Debug\program resturan.pdb
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\bin\Debug\program resturan.exe
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\bin\Debug\program resturan.pdb
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\bin\Debug\MetroFramework.Design.dll
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\bin\Debug\MetroFramework.dll
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\obj\Debug\program_resturan.insertfood.resources
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\obj\Debug\program_resturan.Properties.Resources.resources
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\obj\Debug\program_resturan.register.resources
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\obj\Debug\program_resturan.tableuser.resources
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\obj\Debug\program_resturan.update.resources
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\obj\Debug\program resturan.csproj.GenerateResource.Cache
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\obj\Debug\program_resturan.form1.resources
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\obj\Debug\program_resturan.insertname.resources
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\bin\Debug\fa-IR\program resturan.resources.dll
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\obj\Debug\program_resturan.insertfood.fa-IR.resources
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\obj\Debug\fa-IR\program resturan.resources.dll
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\obj\Debug\program_resturan.info.resources
+C:\Users\AHMIRNIA\Desktop\program resturan\program resturan\obj\Debug\program resturan.csprojResolveAssemblyReference.cache
+E:\c#&web\c#\program c#\program resturan\program resturan\bin\Debug\program resturan.exe.config
+E:\c#&web\c#\program c#\program resturan\program resturan\obj\Debug\program resturan.exe
+E:\c#&web\c#\program c#\program resturan\program resturan\obj\Debug\program resturan.pdb
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\bin\Debug\program resturan.exe.config
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\obj\Debug\program resturan.exe
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\obj\Debug\program resturan.pdb
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\bin\Debug\program resturan.exe
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\bin\Debug\program resturan.pdb
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\bin\Debug\fa-IR\program resturan.resources.dll
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\bin\Debug\MetroFramework.Design.dll
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\bin\Debug\MetroFramework.dll
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\bin\Debug\MetroFramework.Fonts.dll
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\obj\Debug\program resturan.csprojResolveAssemblyReference.cache
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\obj\Debug\program_resturan.form1.resources
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\obj\Debug\program_resturan.info.resources
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\obj\Debug\program_resturan.insertfood.resources
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\obj\Debug\program_resturan.insertname.resources
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\obj\Debug\program_resturan.Properties.Resources.resources
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\obj\Debug\program_resturan.register.resources
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\obj\Debug\program_resturan.tableuser.resources
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\obj\Debug\program_resturan.update.resources
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\obj\Debug\program_resturan.insertfood.fa-IR.resources
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\obj\Debug\program resturan.csproj.GenerateResource.Cache
+E:\c#&web\c#\program c#\resturan\program resturan\program resturan\obj\Debug\fa-IR\program resturan.resources.dll

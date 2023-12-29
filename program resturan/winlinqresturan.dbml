@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="resturan" Class="winlinqresturanDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=AHMIRNIA;Initial Catalog=resturan;Integrated Security=True" SettingsObjectName="program_resturan.Properties.Settings" SettingsPropertyName="resturanConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Tableregister" Member="Tableregisters">
+    <Type Name="Tableregister">
+      <Column Name="subscription" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="firstname" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="lastname" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="tel" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="mobile" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="addres" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tableinsertfood" Member="Tableinsertfoods">
+    <Type Name="Tableinsertfood">
+      <Column Name="code" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="namefood" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="typefood" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="fee" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tableinsertlabel" Member="Tableinsertlabels">
+    <Type Name="Tableinsertlabel">
+      <Column Name="name" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="adres" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
